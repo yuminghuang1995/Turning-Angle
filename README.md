@@ -16,4 +16,4 @@ The corresponding node indexes on each edge: head tail.
 
 The output txt file format:
 
-Node coordinates in print order: X Y Z (The compensation for the 0.15mm thickness of the z direction is given when printing CCF layer).
+Node coordinates in print order: X Y Z (The compensation for the 0.15mm thickness of the z direction is given when printing CCF layers).
