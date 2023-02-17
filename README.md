@@ -12,4 +12,4 @@ The corresponding nodes on each node: head tail
 
 The output txt file format:
 
-Node coordinates in print order: X Y Z (When printing carbon fiber layer, the Z direction is compensated)
+Node coordinates in print order: X Y Z (The compensation for the 0.15mm thickness of the z direction is given when printing the carbon fiber layer)
